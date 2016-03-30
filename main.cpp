@@ -6,5 +6,6 @@ int main()
 	printf("Tercer Cambio");
 	printf("Cambio paralelo\n");	
 	printf("Cuarto Cambio\n");
+	printf("Quinto Cambio\n");
 	return 0;
 }
