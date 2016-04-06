@@ -7,5 +7,6 @@ int main()
 	printf("Cambio paralelo\n");	
 	printf("Cuarto Cambio\n");
 	printf("Quinto Cambio\n");
+	printf("Cambio de Ricardo\n");
 	return 0;
 }
