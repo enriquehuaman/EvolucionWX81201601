@@ -1,5 +1,5 @@
 Este	(linea 1)
 es
-mi
+mi		(linea 3)
 tercer
 archivo (linea 5)
