@@ -21,3 +21,7 @@ int resta(int x, int y)
 {
 	return x-y;
 }
+
+double division(double a, double b){
+	return a/b; // Ricardo
+}
