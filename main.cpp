@@ -35,3 +35,7 @@ int multiplicar(int x, int y)
 	return x*y;
 }
 
+int division(int x, int y)
+{
+	return x/y;
+}
