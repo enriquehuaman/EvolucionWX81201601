@@ -11,3 +11,8 @@ int main()
 	printf("Cambio de Ricardo\n");
 	return 0;
 }
+
+int suma(int x, int y)
+{
+	return x+y;
+}
