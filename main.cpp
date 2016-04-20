@@ -7,7 +7,9 @@ int main()
 	printf("Cambio paralelo\n");	
 	printf("VENDO EMPANADAS\n");
 	printf("Quinto Cambio DON IAN \n");
-
 	printf("Cambio de Ricardo\n");
+	printf("Nueva linea 11");
+	printf("Nueva linea 12");
+	printf("Nueva linea 13");
 	return 0;
 }
